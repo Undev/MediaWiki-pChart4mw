@@ -3,7 +3,7 @@
 	 * pChartWebservice.php
 	 * Webservice to generate charts using pChart
 	 * written by Robert Horlings
-	 * http://www.mediawiki.org/wiki/Extension:pChart4mw
+	 * https://www.mediawiki.org/wiki/Extension:pChart4mw
 	 *
 	 */
 
