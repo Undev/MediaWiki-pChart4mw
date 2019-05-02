@@ -1431,7 +1431,7 @@
 			}
 
 			// Call the base method and return the HTML code. The parameters noparse and isHTML are set
-			// because otherwise the returned code is not handled as HTML code. See http://www.mediawiki.org/wiki/Manual:Parser_functions
+			// because otherwise the returned code is not handled as HTML code. See https://www.mediawiki.org/wiki/Manual:Parser_functions
 			return array( 
                             call_user_func( array( $className, 'render' ), $data, $args, $parser ),
                             'noparse' => true,
