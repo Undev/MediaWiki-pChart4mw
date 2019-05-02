@@ -3,7 +3,7 @@
 	 * pChart4mw.php
 	 * provide tags for drawing charts easily using pChart.
 	 * written by Robert Horlings
-	 * http://www.mediawiki.org/wiki/Extension:pChart4mw
+	 * https://www.mediawiki.org/wiki/Extension:pChart4mw
 	 *
 	 * To configure the functionality of this extension include the following in your
 	 * LocalSettings.php file:
@@ -30,7 +30,7 @@
 		"name" 			=> "pChart4mw",
 		"version"		=> "1.4.0",
 		"author" 		=> "Robert Horlings, Gérard de Smaele",
-		"url" 			=> "http://www.mediawiki.org/wiki/Extension:Pchart4mw",
+		"url" 			=> "https://www.mediawiki.org/wiki/Extension:Pchart4mw",
 		"description" 	=> "Provides tags for creating different types of pChart graphs: bar, line, pie, radar, scatter and bubble charts."
 	);
 
@@ -140,7 +140,7 @@
 	/**
          * Sets magic words in order to use parser functions
          * 
-         * @see http://www.mediawiki.org/wiki/Manual:Parser_functions
+         * @see https://www.mediawiki.org/wiki/Manual:Parser_functions
          * @param <type> $magicWords
          * @param <type> $langCode
          * @return <type> 
